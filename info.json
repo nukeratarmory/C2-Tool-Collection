@@ -85,7 +85,7 @@
     },
     "AddMachineAccount": {
         "name": "AddMachineAccount",
-        "command": "addmachineaccount",
+        "command": "add-machine-account",
         "type": "bof",
         "repository": "https://github.com/nukeratarmory/C2-Tool-Collection",
         "metadata": {
